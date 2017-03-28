@@ -33,4 +33,8 @@ function postNewComment(body, commenter){
   newCommentDiv.appendChild(body);
   newCommentDiv.appendChild(commenter);
   commentDiv.appendChild(newCommentDiv);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 463e67e6a24cc3183eeab3c4d80808d0b62edfd6
